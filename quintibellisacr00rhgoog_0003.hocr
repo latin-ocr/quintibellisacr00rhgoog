@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quintibellisacr00rhgoog_0003.png"; bbox 0 0 1060 1538; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 266 317 483 339">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 266 317 483 339">
+     <span class='ocr_line' id='line_1_1' title="bbox 266 317 483 339; baseline -0.014 0"><span class='ocrx_word' id='word_1_1' title='bbox 266 322 350 339; x_wconf 39' lang='lat'>0724&amp;</span> <span class='ocrx_word' id='word_1_2' title='bbox 369 317 414 337; x_wconf 60' lang='grc' dir='ltr'>λθ,</span> <span class='ocrx_word' id='word_1_3' title='bbox 427 318 454 337; x_wconf 52' lang='lat'>2„</span> <span class='ocrx_word' id='word_1_4' title='bbox 465 317 483 334; x_wconf 75' lang='grc'>2-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 358 672 622 695">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 358 672 622 695">
+     <span class='ocr_line' id='line_1_2' title="bbox 358 672 622 695; baseline -0.004 -3"><span class='ocrx_word' id='word_1_5' title='bbox 358 672 443 693; x_wconf 55' lang='lat' dir='ltr'>natham</span> <span class='ocrx_word' id='word_1_6' title='bbox 457 672 532 695; x_wconf 57' lang='lat' dir='ltr'>&amp;tulum</span> <span class='ocrx_word' id='word_1_7' title='bbox 545 672 622 695; x_wconf 66' lang='lat' dir='ltr'><strong>{fluam</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 392 919 567 949">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 392 919 567 949">
+     <span class='ocr_line' id='line_1_3' title="bbox 392 919 567 949; baseline -0.006 -2"><span class='ocrx_word' id='word_1_8' title='bbox 392 928 419 947; x_wconf 59' lang='grc' dir='ltr'>κε</span> <span class='ocrx_word' id='word_1_9' title='bbox 436 919 567 949; x_wconf 45' lang='lat' dir='ltr'>cedwal,</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
